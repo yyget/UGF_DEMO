@@ -13,8 +13,7 @@ namespace Demo6
         {
             base.OnEnter(procedureOwner);
             Log.Debug("初始！");
-         
-            base.OnEnter(procedureOwner);
+        
             // 获取框架实体组件
             EntityComponent entityComponent  =  GameEntry.GetComponent<EntityComponent>();    
             // 创建实体
