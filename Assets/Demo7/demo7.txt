@@ -1,0 +1,5 @@
+{
+"ForceGameUpdate":false,
+"LatestGameVersion":"0.1.0",
+"GameUpdateUrl":"http://"
+}
